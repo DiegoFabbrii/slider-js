@@ -9,4 +9,4 @@ Um slider de imagens.
 * Css
 * Javascript
 
-[Veja como ficou o projeto]()
+[Veja como ficou o projeto]( https://diegofabbrii.github.io/slider-js/)
