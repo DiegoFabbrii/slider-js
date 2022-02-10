@@ -1,2 +1,12 @@
 # projeto slider
- Um slider feito em javascript
+ > ## Sobre o projeto
+
+Um slider de imagens.
+
+> ## Tecnologias usadas 
+
+* Html
+* Css
+* Javascript
+
+[Veja como ficou o projeto]()
